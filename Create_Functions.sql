@@ -65,4 +65,6 @@ Running list:
         ;
 
         SELECT prod_saj_share.work_revopt.business_hr_conversion('2017-03-19 18:59:27')
+        
+        SHOW USER FUNCTIONS IN prod_saj_share.work_revopt
 
